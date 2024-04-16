@@ -1,15 +1,15 @@
 <h1 align="center">👋👋👋👋 Call me ZhangCiiiii</h1>
-<h3 align="center">Pursuing the Master Degree in the Department of Automation, SEIEE, SJTU.</h3>
+<h3 align="center">Graduated from the Department of Automation, SEIEE, SJTU.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhangciiiii&label=Profile%20views&color=0e75b6&style=flat" alt="zhangciiiii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhangciiiii" alt="zhangciiiii" /></a> </p>
 
-- 🔭 Studying in: **Department of Automation, SEIEE, SJTU.**
+- 🔭 Work in: **An Unicorn Companies.**
 
 - 👨‍💻 Projects: [https://github.com/zhangciiiii](https://github.com/zhangciiiii)
 
-- 💬 Interested in: **Autonomous Driving, SLAM**
+- 💬 Interested in: **Autonomous Driving**
 
 - 📫 Reach me: **ZhangCiiiii@sjtu.edu.cn**
 
